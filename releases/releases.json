@@ -1,0 +1,45 @@
+{
+	"lastRelease": "0.2.7",
+	"releases": [
+		{
+			"version": "0.2.7",
+			"releaseDate": "2020-02-18",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.7.vsix"
+		},
+		{
+			"version": "0.2.6",
+			"releaseDate": "2020-02-10",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.6.vsix"
+		},
+		{
+			"version": "0.2.5",
+			"releaseDate": "2020-02-04",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.5.vsix"
+		},
+		{
+			"version": "0.2.4",
+			"releaseDate": "2020-02-03",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.4.vsix"
+		},
+		{
+			"version": "0.2.3",
+			"releaseDate": "2020-01-30",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.3.vsix"
+		},
+		{
+			"version": "0.2.2",
+			"releaseDate": "2020-01-28",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.2.vsix"
+		},
+		{
+			"version": "0.2.1",
+			"releaseDate": "2020-01-24",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.1.vsix"
+		},
+		{
+			"version": "0.2.0",
+			"releaseDate": "2020-01-21",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.0.vsix"
+		}
+	]
+}
