@@ -1,6 +1,11 @@
 {
-	"lastRelease": "0.2.7",
+	"lastRelease": "0.2.8",
 	"releases": [
+		{
+			"version": "0.2.8",
+			"releaseDate": "2020-02-21",
+			"url": "https://stash.b-i.com/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.8.vsix"
+		},
 		{
 			"version": "0.2.7",
 			"releaseDate": "2020-02-18",
