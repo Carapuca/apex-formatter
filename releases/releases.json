@@ -1,6 +1,11 @@
 {
-	"lastRelease": "0.2.8",
+	"lastRelease": "0.2.9",
 	"releases": [
+		{
+			"version": "0.2.9",
+			"releaseDate": "2020-09-09",
+			"url": "https://bitbucket.isobar.ch/projects/SCL/repos/apex-formatter-vscode-extension/browse/releases/apex-formatter-0.2.9.vsix"
+		},
 		{
 			"version": "0.2.8",
 			"releaseDate": "2020-02-21",
